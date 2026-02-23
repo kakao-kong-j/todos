@@ -2,6 +2,20 @@
   "version": 1,
   "todos": [
     {
+      "id": "2ea36044-cf10-461d-82c8-250c9dd7c962",
+      "title": "오늘 도착/톡딜",
+      "description": "",
+      "status": "pending",
+      "priority": "high",
+      "tags": [
+        "work",
+        "talkdeal"
+      ],
+      "project": "talkdeal",
+      "createdAt": "2026-02-23T07:27:23.800Z",
+      "updatedAt": "2026-02-23T07:27:23.800Z"
+    },
+    {
       "id": "fbfac5b3-4093-450c-bb12-2c3570aeccc8",
       "title": "메가카드 프론트 API 구현",
       "description": "",
