@@ -2,6 +2,21 @@
   "version": 1,
   "todos": [
     {
+      "id": "f808d7e7-f261-41b7-be65-700a62331c8c",
+      "title": "오늘출발/쇼핑탭",
+      "description": "",
+      "status": "pending",
+      "priority": "high",
+      "tags": [
+        "alberta",
+        "work",
+        "backend"
+      ],
+      "project": "alberta",
+      "createdAt": "2026-02-23T07:28:32.773Z",
+      "updatedAt": "2026-02-23T07:28:32.773Z"
+    },
+    {
       "id": "2ea36044-cf10-461d-82c8-250c9dd7c962",
       "title": "오늘 도착/톡딜",
       "description": "",
