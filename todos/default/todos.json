@@ -1,15 +1,4 @@
 {
   "version": 1,
-  "todos": [
-    {
-      "id": "74e40d5d-a9d1-439e-915c-f4c9cf6d0c88",
-      "title": "test",
-      "description": "",
-      "status": "pending",
-      "priority": "medium",
-      "tags": [],
-      "createdAt": "2026-02-22T17:13:45.250Z",
-      "updatedAt": "2026-02-22T17:13:45.250Z"
-    }
-  ]
+  "todos": []
 }
