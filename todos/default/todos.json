@@ -1,4 +1,20 @@
 {
   "version": 1,
-  "todos": []
+  "todos": [
+    {
+      "id": "fbfac5b3-4093-450c-bb12-2c3570aeccc8",
+      "title": "메가카드 프론트 API 구현",
+      "description": "",
+      "status": "pending",
+      "priority": "high",
+      "tags": [
+        "mega-card",
+        "alberta",
+        "backend"
+      ],
+      "project": "work",
+      "createdAt": "2026-02-23T06:56:16.082Z",
+      "updatedAt": "2026-02-23T06:56:16.082Z"
+    }
+  ]
 }
