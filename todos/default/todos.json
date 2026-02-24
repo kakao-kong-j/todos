@@ -59,6 +59,22 @@
       "project": "alberta",
       "createdAt": "2026-02-23T06:56:16.082Z",
       "updatedAt": "2026-02-23T07:27:47.279Z"
+    },
+    {
+      "id": "5cb66ae5-548c-42f1-b731-a61b2f0482fe",
+      "title": "검색 마이컬랙션 appendix 값 추",
+      "description": "",
+      "status": "pending",
+      "priority": "medium",
+      "tags": [
+        "alberta",
+        "search",
+        "backend",
+        "hotfix"
+      ],
+      "project": "alberta",
+      "createdAt": "2026-02-24T04:45:54.800Z",
+      "updatedAt": "2026-02-24T04:45:54.800Z"
     }
   ]
 }
