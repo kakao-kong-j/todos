@@ -2,6 +2,20 @@
   "version": 1,
   "todos": [
     {
+      "id": "01e35b61-987e-4666-8b53-e7b399ad6f06",
+      "title": "autoCahce 에 lock 추가",
+      "description": "",
+      "status": "pending",
+      "priority": "high",
+      "tags": [
+        "alberta",
+        "cache"
+      ],
+      "project": "alberta",
+      "createdAt": "2026-02-24T01:26:28.959Z",
+      "updatedAt": "2026-02-24T01:26:28.959Z"
+    },
+    {
       "id": "f808d7e7-f261-41b7-be65-700a62331c8c",
       "title": "오늘출발/쇼핑탭",
       "description": "",
